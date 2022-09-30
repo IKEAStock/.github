@@ -3,8 +3,8 @@ IKEA Stock a tool that gives you more details on stock numbers than what IKEA gi
 
 > [Website](https://ikeastock.xyz)\
 > [API](https://github.com/IKEAStock/API)\
-> [Discord Bot](https://github.com/IKEAStock/bot)\
-> [Documentation](https://github.com/IKEAStock/documentation)
+> [Bot](https://github.com/IKEAStock/bot)\
+> [Docs](https://github.com/IKEAStock/documentation)
 
 
 <!--- ![Logo](https://github.com/IkeaStock/.github/blob/main/ikeaStock.png) --->
