@@ -1,9 +1,9 @@
 # IKEA Stock
-IKEA Stock is a tool that gives you more details on stock numbers than what IKEA gives you. 
-
+IKEA Stock is a tool that gives you more details on stock numbers than what IKEA gives you. You can visit us at [ikeastock.xyz](https://ikeastock.xyz) or invite our [discord bot](https://igithub.com/ikeastock/bot) to your server.
 
 <!--- We use our API (which is an API Wrapper for IKEA's API) to produce stock information on the website and the discord bot. --->
 
+### Directory
 > [Website](https://ikeastock.xyz)\
 > [API](https://github.com/IKEAStock/API)\
 > [Discord Bot](https://github.com/IKEAStock/bot)\
